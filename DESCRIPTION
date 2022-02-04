@@ -1,0 +1,14 @@
+Package: thiemwork
+Title: Groundwater Well Caluclations With Dupuit-Thiem
+Version: 0.0.1.0000
+Authors@R: 
+    person(given = "Soeren",
+           family = "Wilke",
+           role = c("aut", "cre"),
+           email = "swilke@gmx.de")
+Description: thiemwork provides functions and utilities to calculate the impact of pumping wells on an aquifer, making heavy use of the Dupuit-Thiem equation and adajcent algorithms such as Sichardt's equation.
+License: AGPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
